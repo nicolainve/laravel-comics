@@ -109,3 +109,5 @@ $comics = [
         'body' => '<p>The wedding night’s barely over, but Catwoman’s back on the streets, this time to expose a copycat who’s pulling heists around Gotham City. As Selina cracks the whip on her former criminal cohorts, she’s attracting unwanted attention from one of Gotham’s most dangerous groups. The mob? Nope. Try the GCPD. And as if the Bat-Bride didn’t have enough problems, don’t miss the debut of an all-new villain determined to make trouble for all nine of Selina’s lives. Don’t miss the start of an all-new monthly series written and illustrated by Eisner Award-nominee Joëlle Jones!</p>'
     ],
 ];
+
+return $comics;
